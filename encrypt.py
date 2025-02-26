@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("mypic.jpg")
+img = cv2.imread("flower.jpg")
 msg = input("Enter secret message: ")
 password = input("Enter a passcode: ")
 
